@@ -10,7 +10,7 @@
 
 # Normal
 
-Ingredients:
+### Ingredients:
 - 1L de llet
 - 1 iogurt
 - coses aromàtiques per posar-hi que no trenquin la llet
@@ -31,7 +31,7 @@ Ingredients:
 - zzz.. 8h i a la nevera
 
 # FAQ
-### realment 8h?
+### Realment 8h?
 Veure el següent punt. Per internet he vist que la gent parla de "coccions" de 6h a 12h. Nosaltres normalment fem 6-8h.
 
 ### Em queda massa...

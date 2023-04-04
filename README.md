@@ -1,9 +1,10 @@
 # Fàcil
 
-Ingredients:
+### Ingredients:
 - 1L llet UHT
 - 1 iogurt
 
+### Procés:
 - Ben remenat, repartit en els potets i a dormir.
 - 8h i demà ja està, cap a la nevera.
 
@@ -14,14 +15,14 @@ Ingredients:
 - 1 iogurt
 - coses aromàtiques per posar-hi que no trenquin la llet
 
-## Llet
+### Llet
 - poses els fogons baixos i deixes que vagi agafant temperatura
 - afegeixes els aromàtics
 - deixes que pugi fins a ~80°C
     - si tens el temps, et quedes davant i vas remenant. Sino poses un termòmetre i que piti als 80. Només corres els risc que es cremi una mica a la base de la cassola.
 - pares el fogó
 
-## La resta
+### La resta
 - deixes que baixi fins a 40°C o el que creguis que no matarà els bitxos.
     - una manera de veure si està massa calent és posant el dit a dins i veient si t'estàs coent. Si és que sí, els bitxos del iogurt també es couran.
     - per ajudar que passi pots combinar-ho amb els passos següents
@@ -30,7 +31,7 @@ Ingredients:
 - zzz.. 8h i a la nevera
 
 # FAQ
-- realment 8h?
+### realment 8h?
 Veure el següent punt. Per internet he vist que la gent parla de "coccions" de 6h a 12h. Nosaltres normalment fem 6-8h.
 
 ### Em queda massa...

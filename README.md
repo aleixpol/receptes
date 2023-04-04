@@ -20,6 +20,7 @@
 - afegeixes els aromàtics
 - deixes que pugi fins a ~80°C
     - si tens el temps, et quedes davant i vas remenant. Sino poses un termòmetre i que piti als 80. Només corres els risc que es cremi una mica a la base de la cassola.
+    - si no tens termòmetre et fixes en que comença a sortir una espumeta a sobre. No deixis que arribi a fer bulls grossos.
 - pares el fogó
 
 ### La resta

@@ -61,6 +61,18 @@ He vist per internet que la gent parla de fer iogurts amb llets vegetals. S'haur
 
 Venen de vegades sobrets amb bitxos deshidratats. Ho vaig fer servir una vegada i va funcionar ok. No és més barat ni més senzill ni més bo que fer-ho amb un iogurt però. Que jo sàpiga.
 
+### He de coure la llet?
+
+Si fas servir llet crua, sí. Però és difícil de trobar.
+
+Si és llet fresca o UHT no cal. Està bé però aprofitar per evaporar-ne una mica l'aigua i afegir-hi els aromàtics.
+
+### Al súper hi ha moltes llets. Quina agafo?
+
+Normalment faig servir llet fresca (pasteuritzada) d'1,5 L (sí, he parlat de 1L tota l'estona, i què?). Ho he fet amb UHT i també ha funcionat bé però penso que millor fer servir la que està menys tractada. Hi ha una mica menys de residu també amb algunes fresques. No sé.
+
+Un cop vam anar a buscar llet crua a una lleteria del Montseny i en vam fer iogurts. Aquesta sí que era una mica més diferent que la resta però és un producte que cal tractar amb més respecte.
+
 ### Què coi vols dir amb _aromàtics_?
 
 Doncs al llarg dels anys n'hem fet amb molts gustos, no recordo que cap quedés especialment dolent. Sempre acaben de tenir gust de iogurt al cap i a la fi però sí que es nota bastant i m'agrada fer-ho.
